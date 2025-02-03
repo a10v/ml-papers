@@ -16,6 +16,8 @@ The `archive` folder will contain downloaded archives of papers and repositories
 
 [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
 
+[Reasoning Gym](https://github.com/open-thought/reasoning-gym)
+
 ### R1-Related Finetunes
 
 [Multimodal Open R1](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
