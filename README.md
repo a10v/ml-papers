@@ -18,6 +18,8 @@ The `archive` folder will contain downloaded archives of papers and repositories
 
 [Reasoning Gym](https://github.com/open-thought/reasoning-gym)
 
+[CLUSTERING AND ENTITY MATCHING VIA LANGUAGE MODEL COMMUNITY DETECTION](https://openreview.net/pdf?id=NgMbGDCmAM)
+
 ### R1-Related Finetunes
 
 [Multimodal Open R1](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
